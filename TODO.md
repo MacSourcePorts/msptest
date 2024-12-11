@@ -1,0 +1,8 @@
+- [HWR] Fix Z-fighting.
+- Revise AOG compatibility.
+- If possible don't define destructor with all initialized fields at declaration.
+- Remove `const` before non-pointer or non-reference function parameter.
+- Namespace `detail` to anonymous one.
+- Remove underscore suffix for public fields.
+- Make some player's sounds positional (interacting with switches, .etc).
+- Play `got weapon` sound on separate voice?
