@@ -16,3 +16,7 @@ The buildbot thing I'm trying to do fails if there's no tags so I'm going to cal
 ### Commit #3
 
 New commit with no tag, seeing what buildbot picks up. 
+
+### Commit #4 (TAG: v1.1 VERSION: 1.1)
+
+Commmit #3 did not trigger a build so I'm tagging this one with 1.1 to see if it gets picked up. 
