@@ -12,3 +12,7 @@ Initial commit to get things rolling. No tags yet.
 ### Commit #2 (TAG: v1.0 VERSION: 1.0)
 
 The buildbot thing I'm trying to do fails if there's no tags so I'm going to call this one 1.0 with a tag of v1.0
+
+### Commit #3
+
+New commit with no tag, seeing what buildbot picks up. 
