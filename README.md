@@ -20,3 +20,7 @@ New commit with no tag, seeing what buildbot picks up.
 ### Commit #4 (TAG: v1.1 VERSION: 1.1)
 
 Commmit #3 did not trigger a build so I'm tagging this one with 1.1 to see if it gets picked up. 
+
+### Commit #4 (TAG: v1.2 VERSION: 1.2)
+
+Commmit #4 did get commits 3 and 4 picked up as changes (which commit 3 did not do by itself) but did not trigger a build. I've tweaked the change filter for the single branch scheduler so I'm seeing if this being tagged as 1.2 changes anything with that tweak. 
